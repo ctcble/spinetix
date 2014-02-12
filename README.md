@@ -12,5 +12,5 @@ Spinetix display system consists in multiple layers:
   * What else ?
 
 * **Spinetix components**: built-in and/or developed
-* 
+
 * **Spinetix canvas**: created with Elementi, or generated programmatically
